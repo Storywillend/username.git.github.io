@@ -46,7 +46,7 @@
   <tr>
     <td width="35%">
       <p><b>软件著作权	</b></p>
-      <img src="/" width="100%">
+      <img src="/rz.jpg" width="100%">
       >
     </td>
   </tr>
