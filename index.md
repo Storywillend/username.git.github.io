@@ -1,76 +1,69 @@
-<h1>应届生求职模板</h1>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>伊帅</h1>
+      <p><b>本科 软件工程</b></p>
+      <p><b>石家庄铁道大学信息科学与技术学院</b></p>
+      <p><b>邮箱：994036652@qq.com</b></p>
+      <p><b>地址：河北省石家庄市长安区北二环东路17号石家庄铁道大学</b></p>
+    </td>
+    <td width="25%">
+    </td>
+  </tr>
+</table>
+# 个人简介
+<table border="0">
+  <tr>
+    <td width="100%">
+      <p><b>本人对编程有较浓兴趣，做过很多小项目（连连看、计算器、简单的数据库读取录入系统等等），积累了经验和学习方法，受益匪浅。</b></p>
+    </td>
+  </tr>
+</table>
 
-<div style="float:right">
-    <img src="https://img.52z.com/upload/news/image/20181108/20181108204521_83402.jpg" width="150">
-</div>
+# 学习情况
+<table border="0">
+  <tr>
+    <td width="100%">
+      <img src="/jxj.jpg" width="50%">
+      <p><b>学习认真，对问题有钻研的精神</b></p>
+    </td>
+  </tr>
+</table>
 
-**基本信息：** x某某 / gender / age&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 山东青岛
+# 社会活动情况
+<table border="0">
+  <tr>
+    <td width="100%">
+      <p><b>2020.01~2020.02          东方慧家教育科技有限公司            特训营教学助教</b></p>
+      <p><b>负责特训营学员管理及和学员家长联系；</b></p>
+      <p><b>负责特训营辅助教学活动及学员问题解答；	</b></p>
+      <p><b>2018.12~2019.02          北京聚乐嘉华教育科技有限公司        特训营教学助教</b></p>
+      <p><b>负责特训营学员管理及联系及特训营辅助教学活动；</b></p>
+      <p><b>学员复报率达80%。	</b></p>
+      <p><b>2018.05~2019.10          石家庄铁道大学今晨梦声双语演讲协会   创始人兼社长</b></p>
+      <p><b>负责协会日常管理工作，负责公司自媒体（如微博、微信公众）的信息发布及维护；</b></p>
+      <p><b>业绩：首次招募协会成员达150人，联合京津冀高校成立英语社团联盟，包括：华北电力大学、首都医科大学、北京航空航天大学、天津财经大学、天津医科大学、河北经贸大学、河北师范大学等近30所高校。	</b></p>
+      <p><b>2017.11~2019.04          石家庄铁道大学党委宣传部新媒体中心   运营部长</b></p>
+      <p><b>要负责撰写软文，协助运营执行推广活动，负责学校自媒体（如微信公众号、校QQ号）的信息发布及维护；</b></p>
+      <p><b>业绩：所撰写的软文参与查看单条平均超过3,000人，获得1,000次转发，评论超过500条。</b></p>
+      <img src="/jiechu.jpg" width="50%">
+      <p><b>2017.10~2018.06          校学生会                           干事</b></p>
+      <p><b>积极参与学生会的各项活动，与其他干事一起参与各类学生活动的策划；</b></p>
+      <p><b>完成其他学生会的工作任务，成功举办多次大型活动，如“迎新晚会”、“毕业生晚会”等。	</b></p>
+      <img src="/td.jpg" width="50%">
+    </td>
+  </tr>
+</table>
 
-**手&ensp;机&ensp;号：** 178 xxxx xxxx&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**邮&emsp;&emsp;箱：** congsw@foxmail.com
+# 专业技能展示
+<table border="0">
+  <tr>
+    <td width="35%">
+      <p><b>软件著作权	</b></p>
+      <img src="/" width="100%">
+      >
+    </td>
+  </tr>
+</table>
 
-**证&emsp;&emsp;书：** 英语四/六级、计算机二级&emsp;&emsp;&emsp;&emsp;&ensp;**实习经验：** x年
-
-**GitHub：** https://github.com/congshengwu 
-
-**CSDN：** &ensp;https://blog.csdn.net/c1024197824
-
-<h1>求职意向</h1>
-
-**期望职位：** 安卓开发工程师&emsp;&emsp;&emsp;&emsp;**期望薪资：** 0k-1000k
-
-<h1>教育背景</h1>
-
-xxxx大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.09-2019.06&emsp;&emsp;&emsp;&emsp;&emsp;电子信息工程
-
-<h1>实习经历</h1>
-
-**公司：** xxxxxx信息科技有限公司&emsp;&emsp;**职位：** 安卓开发工程师&emsp;&emsp;**时间：** 2018.03-2019.03
-<br/>
-**项目名称：** xxxxxxxxxx
-<br/>
-**项目简介：** xxxxxxxxxx
-<br/>
-**主要工作：**
- - xxxxxxxxxxxx。
- - xxxxxxxxxxxx。
- - xxxxxxxxxxxx。
- - 技术栈：
-   - 基于谷歌AAC框架实现MVVM应用架构
-   - 网络请求：Retrofit+OkHttp+RxJava
-   - Json解析：谷歌Gson
-   - XML/Html解析：Jsoup
-   - 图片加载：Glide
-   - UI及数据加载相关：DataBinding、Paging、自定义View
-
-<h1>个人作品</h1>
-
-**名称：** xxxx&emsp;&emsp;
-<br/>
-**简介：** xxxxxxxxxxxxxxxxxxxx。
-
-**名称：** yyyy 
-<br/>
-**简介：** yyyyyyyyyyyyyyyyyyyy。
-
-**名称：** zzzz
-<br/>
-**简介：** zzzzzzzzzzzzzzzzzzzz。
-
-<h1>技能清单</h1>
-
-以下均为我熟练使用的技能：
-
-- 编程语言：Java、C
-- 安卓开发：熟悉安卓UI设计、布局、自定义控件开发，安卓数据存储SharedPreferences、文件等，微博、微信等第三方SDK集成，处理ANR、OOM等
-- 安卓框架：Gson、FastJson、谷歌AAC、EventBus、Glide、Retrofit、RxJava、OkHttp、Jsoup等
-- 其他：正则表达式、Git、SVN等
-
-以下是我接触并了解的技能：
-
-&emsp;&emsp;&emsp;Kotlin（学习中）、Linux简单命令、Java Servlet、Mysql、Html、爬虫等等
-
-<h1>自我评价</h1>
-
-&emsp;&emsp;我是一个热爱技术热爱编程的人，大学四年自学编程，做过很多小项目（贪吃蛇、计算器、简单的数据库读取录入系统等等），上架了3款个人开发的安卓小应用，各应用市场累计60多万的下载量，开源了几个小项目并得到了一些star，参与过两个商业安卓应用的开发，其中在开发“猫博”App过程中积累了我安卓开发的大部分经验和学习方法，真是受益匪浅。
-<br/>
-&emsp;&emsp;我希望在以后的工作中，深度上能学习掌握更多关于安卓开发的高级知识及数据结构算法；广度上能扩宽自己的技术栈，如前端、后端、混合开发以及其他比较新潮有趣的技术等；高度上希望经过未来几年的职业生涯发展，能成为软件架构师级的技术专家。
+# 博客发表
