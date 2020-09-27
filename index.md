@@ -25,7 +25,7 @@
   <tr>
     <td width="100%">
       <p><b>学习认真，对问题有钻研的精神</b></p>
-      <img src="/jiechu.jpg" width="50%">
+      <img src="/st.jpg" width="50%">
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   <tr>
     <td width="100%">
       <p><b>2019.04~2020.05       西柏坡实践      优秀个人</b></p>
-      <img src="/jiechu.jpg" width="50%">
+      <img src="/xbp.jpg" width="50%">
       <p><b>2018.07-2018.08       辅导班          老师  	</b></p>
     </td>
   </tr>
