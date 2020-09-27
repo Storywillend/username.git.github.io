@@ -24,7 +24,7 @@
 <table border="0">
   <tr>
     <td width="100%">
-      <img src="/jxj.jpg" width="50%">
+      <img src="/IMG_20200927_235125.jpg" width="50%">
       <p><b>学习认真，对问题有钻研的精神</b></p>
     </td>
   </tr>
